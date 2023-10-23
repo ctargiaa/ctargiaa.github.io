@@ -1,1 +1,20 @@
-
+body {
+    background-color: skyblue;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1 {
+    color: darkblue;
+    text-align: center;
+}
+.assign {
+    background-color: lightblue;
+    margin: 10px;
+    padding: 10px;
+    display: flex;
+}
+.assign img {
+    width: 200px;
+    margin: 10px;
+    margin-right: 30px;
+    height: auto;
+}
