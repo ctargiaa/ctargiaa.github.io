@@ -6,10 +6,6 @@ h1 {
     color: darkblue;
     text-align: center;
 }
-a {
- text-decoration: none; /* remove underlining on anchor tags */
- color: midnightblue; /* pick the color you want */
-}
 .assign {
     background-color: lightblue;
     margin: 10px;
@@ -17,6 +13,8 @@ a {
     display: flex;
 }
 .assign img {
- padding: 10px; /* change this from margin to padding */
- border: 2px solid midnightblue; /* try dashed, dotted */
+    width: 200px;
+    margin: 10px;
+    margin-right: 30px;
+    height: auto;
 }
